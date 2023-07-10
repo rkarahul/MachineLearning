@@ -1,0 +1,75 @@
+Aditya Kumar
+15+ exp
+
+Python +MySQL+MongoDB  (3 months)
+Python DA              (6 months)
+Python DS              (6 months)
+Python FS              (6 months)
+Python AI              (8 months)
+
+
+Python:
+-------
+	>easy to learn
+	>less coding time
+
+downside-->slow execution
+
+when--->1991
+who---->Guido Van Rossum
+where-->CWI(research org in maths & n/w) in Netherlands
+why---->it develop amoeba os
+
+
+we can download python from official website
+www.python.org
+
+
+It was named python after a comedy show Monty Python's Flying Circus(broadcasted in BBC in 1970's)
+
+
+Interpreter:-
+------------
+		>executes python program
+
+Standard Libs:
+--------------
+		>collection of readymade programs provided as part of python.
+
+3rd Party Libs:
+---------------
+		>libs given by 3rd party vendors(google/facebook/microsoft/etc.) and we need to download these libs independently.
+
+pip command:
+------------
+	>it is a command which is given as part of python and use to download & install 3rd party libs easily. 
+
+
+IDLE:(Integrated Development & Learning environment)
+-----
+	>It is basic editor for python programming.
+
+Docs:
+-----
+	it is official reference(book) for python programming.
+
+How to write & run python program:
+----------------------------------
+>notepad+cmd
+>idle
+>3rd party editors(pycharm/vscode/jupyter/...)
+
+
+Python is a high level,open source,interpreted,general purpose PL that was first released in 1991 by Guido Van Rossum at CWI in Netherlands.
+
+
+
+
+
+
+
+
+
+
+
+
